@@ -1,2 +1,2 @@
 # vee
-personal blog
+personal page
